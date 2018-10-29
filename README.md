@@ -1,4 +1,4 @@
-# Rancher Kubernetes (V2) plugin for drone.io [![Docker Repository](https://hub.docker.com/r/victorhbfernandes/drone-kubernetes-rancher/status "Docker Repository")](https://hub.docker.com/r/victorhbfernandes/drone-kubernetes-rancher)
+# Rancher Kubernetes (V2) plugin for drone.io 
 
 This plugin allows to update a Kubernetes deployment using Rancher config files.
 
